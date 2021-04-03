@@ -71,16 +71,27 @@
     <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/k8s.gif"  height="80" />
     </a>
     <a href="https://code.visualstudio.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/vscode.gif"  height="80" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/vscode.gif"  height="60" />
+    </a>
+    <a href="https://docs.celeryproject.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/celery.gif"  height="60" />
+    </a>
+    <a href="https://www.rabbitmq.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/rabbitmq.gif"  height="60" />
+    </a>
+    <a href="https://redis.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/redis.gif"  height="60" />
     </a>
 </p>
 
 ## Programming stats
 
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 ## Connect with me
