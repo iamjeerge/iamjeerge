@@ -74,13 +74,13 @@
     <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/vscode.gif"  height="60" />
     </a>
     <a href="https://docs.celeryproject.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/celery.gif"  height="60" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/celery.png"  height="60" />
     </a>
     <a href="https://www.rabbitmq.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/rabbitmq.gif"  height="60" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/rabbitmq.png"  height="60" />
     </a>
     <a href="https://redis.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/redis.gif"  height="60" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/redis.png"  height="60" />
     </a>
 </p>
 
