@@ -68,7 +68,10 @@
     <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/docker.gif"  height="80" /> 
     </a>
     <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/k8s.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/k8s.gif"  height="80" />
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/vscode.gif"  height="80" />
     </a>
 </p>
 
