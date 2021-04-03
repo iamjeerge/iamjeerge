@@ -1,6 +1,6 @@
 <h1 align="center"> Howdy! I'am Gururaj Jeerge. 👋 </h1>
 
-![Hero Image](https://github.com/iamjeerge/iamjeerge/blob/master/assets/hero.gif)
+![Hero Image](https://github.com/iamjeerge/iamjeerge/blob/main/assets/hero.gif)
 
 [![Website](https://img.shields.io/website?label=gururaj.me&style=for-the-badge&url=https%3A%2F%2Fgururaj.me)](https://gururaj.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamjeerge?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=iamjeerge)
@@ -15,19 +15,19 @@
 
 <p float="left">
     <a href="https://www.python.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/master/assets/python.png" height="70" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/python.png" height="70" />
     </a>
     <a href="https://www.javascript.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/master/assets/javascript.png" height="70" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/javascript.png" height="70" />
     </a>
     <a href="https://reactjs.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/master/assets/reactjs.png" height="70" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/reactjs.png" height="70" />
     </a>
     <a href="https://html.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/master/assets/html.png" height="70" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/html.png" height="70" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/master/assets/css.png" height="70" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/css.png" height="70" />
     </a>
 </p>
 
@@ -35,10 +35,10 @@
 
 <p float="left">
     <a href="https://www.tensorflow.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/master/assets/tensorflow.png"  height="70" /> 
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/tensorflow.png"  height="70" /> 
     </a>
     <a href="https://pytorch.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/master/assets/pytorch.png"  height="70" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/pytorch.png"  height="70" />
     </a>
 </p>
 
@@ -46,10 +46,10 @@
 
 <p float="left">
     <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/master/assets/django.png" height="70" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/django.png" height="70" />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/master/assets/flask.png" height="70" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/flask.png" height="70" />
     </a>
 </p>
 
@@ -57,7 +57,7 @@
 
 <p float="left">
     <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/master/assets/postgresql.png" height="70" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/postgresql.png" height="70" />
     </a>  
 </p>
 
@@ -65,10 +65,10 @@
 
 <p float="left">
     <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/master/assets/docker.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/docker.gif"  height="80" /> 
     </a>
     <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/master/assets/k8s.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/iamjeerge/iamjeerge/main/assets/k8s.gif"  height="75" />
     </a>
 </p>
 
@@ -79,7 +79,7 @@
 
 ## Connect with me
 
-[<img align="left" alt="gururaj.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="gururaj.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/main/svg/globe.svg" />][website]
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
