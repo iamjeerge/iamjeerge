@@ -87,11 +87,12 @@
 ## Programming stats
 
 <!--START_SECTION:waka-->
-
 ```text
-No Activity tracked this Week
+Markdown     1 hr 54 mins    ███████████████▓░░░░░░░░░   63.07 % 
+JavaScript   39 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.98 % 
+YAML         19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 ```
-
 <!--END_SECTION:waka-->
 
 ## Connect with me
