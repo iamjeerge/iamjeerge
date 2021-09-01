@@ -88,11 +88,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python     7 hrs 41 mins   ██████████████████▓░░░░░░   74.73 % 
-Markdown   59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Other      49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Bash       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-YAML       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
