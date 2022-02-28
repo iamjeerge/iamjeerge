@@ -87,12 +87,13 @@
 ## Programming stats
 
 <!--START_SECTION:waka-->
+
 ```text
-Python       4 hrs 24 mins   ███████████████████████▒░   93.66 % 
-Text         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Python       9 hrs 32 mins   ███████████████████████░░   92.17 %
+JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
+
 <!--END_SECTION:waka-->
 
 ## Connect with me
