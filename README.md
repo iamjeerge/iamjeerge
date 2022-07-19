@@ -89,7 +89,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python             31 mins         ███████████████░░░░░░░░░░   59.89 %
+reStructuredText   7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
+Markdown           7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+INI                3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Other              1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
