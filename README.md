@@ -89,8 +89,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML               1 hr 27 mins    ███████▒░░░░░░░░░░░░░░░░░   29.02 %
-Other              1 hr 8 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
