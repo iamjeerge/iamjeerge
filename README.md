@@ -2,7 +2,7 @@
 
 ![Hero Image](https://github.com/iamjeerge/iamjeerge/blob/main/assets/hero.gif)
 
-[![Website](https://img.shields.io/website?label=gururaj.me&style=for-the-badge&url=https%3A%2F%2Fgururaj.me)](https://gururaj.me)
+[![Website](https://img.shields.io/website?label=gururaj.live&style=for-the-badge&url=https%3A%2F%2Fgururaj.live)](https://gururaj.live)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamjeerge?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=iamjeerge)
 
 ## I'm a Creative | Coder | Developer | Dreamer!
@@ -96,12 +96,12 @@ No activity tracked
 
 ## Connect with me
 
-[<img align="left" alt="gururaj.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="gururaj.live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://gururaj.me
+[website]: https://gururaj.live
 [twitter]: https://twitter.com/iamjeerge
 [linkedin]: https://in.linkedin.com/in/jeerge
 [instagram]: http://instagram.com/iamjeerge
