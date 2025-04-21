@@ -1,6 +1,6 @@
 <h1 align="center"> Howdy! I'am Gururaj Jeerge. 👋 </h1>
 
-![Hero Image](https://github.com/iamjeerge/iamjeerge/blob/main/assets/hero.gif)
+![Hero Image](https://github.com/iamjeerge/iamjeerge/blob/main/assets/hero1.gif)
 
 [![Website](https://img.shields.io/website?label=gururaj.live&style=for-the-badge&url=https%3A%2F%2Fgururaj.live)](https://gururaj.live)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamjeerge?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=iamjeerge)
