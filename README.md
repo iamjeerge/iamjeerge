@@ -1,18 +1,26 @@
-<h1 align="center"> Howdy! I'am Gururaj Jeerge. 👋 </h1>
+<div align="center">
+  <h1 style="font-family: 'Work Sans', sans-serif; font-size: 3em; color: #FBB03B; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+    Howdy! I'am Gururaj Jeerge 👋
+  </h1>
+</div>
 
 ![Hero Image](assets/hero1.gif)
 
 [![Website](https://img.shields.io/badge/website-gururaj.live-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gururaj.live)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamjeerge?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2)](https://twitter.com/iamjeerge)
 
-## I'm a Creative | Coder | Developer | Dreamer!
+<h2 style="font-family: 'Work Sans', sans-serif; color: #FBB03B; border-bottom: 2px solid #999999; padding-bottom: 5px;">I'm a Creative | Coder | Developer | Dreamer!</h2>
+
+<div style="font-family: 'Work Sans', sans-serif; font-size: 1.5em; line-height: 1.8;">
 
 -   🌱 Currently working on creating platform to run ML model [Train / Inference / Benchmark]
 -   🥅 2025 Goals: Building scalable ML infrastructure and contributing to open source AI projects
 -   🚀 Passionate about MLOps, cloud-native applications, and developer tooling
 -   ⚡ Fun fact: I love to play video games and explore new technologies
 
-## 💻 Languages
+</div>
+
+<h2 style="font-family: 'Work Sans', sans-serif; color: #FBB03B; border-bottom: 2px solid #999999; padding-bottom: 5px;">💻 Languages</h2>
 
 <p float="left">
     <a href="https://www.python.org/" target="_blank" >
@@ -32,7 +40,7 @@
     </a>
 </p>
 
-## 🤖 Machine Learning
+<h2 style="font-family: 'Work Sans', sans-serif; color: #FBB03B; border-bottom: 2px solid #999999; padding-bottom: 5px;">🤖 Machine Learning</h2>
 
 <p float="left">
     <a href="https://www.tensorflow.org/" target="_blank" >
@@ -43,7 +51,7 @@
     </a>
 </p>
 
-## ⚡ Edge Computing & Hardware
+<h2 style="font-family: 'Work Sans', sans-serif; color: #FBB03B; border-bottom: 2px solid #999999; padding-bottom: 5px;">⚡ Edge Computing & Hardware</h2>
 
 <p float="left">
     <a href="https://developer.nvidia.com/embedded/jetson-nano-developer-kit" target="_blank" >
@@ -57,7 +65,7 @@
     </a>
 </p>
 
-## 🌐 Web Framework
+<h2 style="font-family: 'Work Sans', sans-serif; color: #FBB03B; border-bottom: 2px solid #999999; padding-bottom: 5px;">🌐 Web Framework</h2>
 
 <p float="left">
     <a href="https://www.djangoproject.com/" target="_blank" >
@@ -71,7 +79,7 @@
     </a>
 </p>
 
-## 📱 Mobile Application Development
+<h2 style="font-family: 'Work Sans', sans-serif; color: #FBB03B; border-bottom: 2px solid #999999; padding-bottom: 5px;">📱 Mobile Application Development</h2>
 
 <p float="left">
     <a href="https://reactnative.dev/" target="_blank" >
@@ -85,7 +93,7 @@
     </a>
 </p>
 
-## 🗄️ Databases
+<h2 style="font-family: 'Work Sans', sans-serif; color: #FBB03B; border-bottom: 2px solid #999999; padding-bottom: 5px;">🗄️ Databases</h2>
 
 <p float="left">
     <a href="https://www.postgresql.org/" target="_blank" >
@@ -93,7 +101,7 @@
     </a>  
 </p>
 
-## 🛠️ Tools
+<h2 style="font-family: 'Work Sans', sans-serif; color: #FBB03B; border-bottom: 2px solid #999999; padding-bottom: 5px;">🛠️ Tools</h2>
 
 <p float="left">
     <a href="https://www.docker.com/" target="_blank" >
@@ -116,7 +124,7 @@
     </a>
 </p>
 
-## 📊 Programming Stats
+<h2 style="font-family: 'Work Sans', sans-serif; color: #FBB03B; border-bottom: 2px solid #999999; padding-bottom: 5px;">📊 Programming Stats</h2>
 
 <!--START_SECTION:waka-->
 
@@ -127,7 +135,7 @@
 
 <!--END_SECTION:waka-->
 
-## 🌐 Connect with me
+<h2 style="font-family: 'Work Sans', sans-serif; color: #FBB03B; border-bottom: 2px solid #999999; padding-bottom: 5px;">🌐 Connect with me</h2>
 
 [<img align="left" alt="gururaj.live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -136,5 +144,5 @@
 
 [website]: https://gururaj.live
 [twitter]: https://twitter.com/iamjeerge
-[linkedin]: https://in.linkedin.com/in/jeerge
+[linkedin]: https://in.linkedin.com/in/iamjeerge
 [instagram]: http://instagram.com/iamjeerge
