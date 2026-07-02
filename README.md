@@ -209,16 +209,4 @@ Whether that's a **wind turbine wake deficit** modelled by the Jensen PDE (valid
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FBB03B&center=true&vCenter=true&width=680&lines=Thinking+in+Gradients%2C+Building+in+Python;Wind+Energy+Physics+%26+Computer+Vision;ML+Platform+Engineer+%40+Zeitview;Edge+AI+%7C+Renewables+%7C+MLOps+%7C+Drones)](https://git.io/typing-svg)
 
-<br/>
-
-[![Website](https://img.shields.io/badge/gururaj.live-5B48FB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gururaj.live)
-[![Twitter](https://img.shields.io/badge/@iamjeerge-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/iamjeerge)
-[![LinkedIn](https://img.shields.io/badge/iamjeerge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/iamjeerge)
-[![Instagram](https://img.shields.io/badge/@iamjeerge-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/iamjeerge)
-[![Email](https://img.shields.io/badge/jeerge@live.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeerge@live.in)
-
-![Profile Views](https://komarev.com/ghpvc/?username=iamjeerge&color=5B48FB&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
